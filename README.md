@@ -7,3 +7,5 @@ Hej 👋 , nazywam się Weronika.  W mojej pracy, firma wdrażała system CRM, a
 Chcę znaleźć pracę i rozwijać się jako testerka oprogramowania 🧠 📖 💻. Jestem przekonana, że z pomocą Dare IT challange stworzę fajne portfolio 👩‍💻.  
 
 ***Werka***
+
+## Subtask 3
