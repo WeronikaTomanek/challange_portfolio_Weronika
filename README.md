@@ -11,6 +11,7 @@ Chcę znaleźć pracę i rozwijać się jako testerka oprogramowania 🧠 📖 �
 ## Subtask 4
 
 Na czym polega ta aplikacja? Do czego służy?
+
 Aplikacja służy do:
 * przeglądania i zapisywania wyników graczy w piłce nożnej,
 * sprawdzania i dodawania raportów.
