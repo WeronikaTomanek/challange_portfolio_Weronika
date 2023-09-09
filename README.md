@@ -30,6 +30,8 @@ NIE:
 * mało zachęcający do korzystania,
 * duża ilość danych w małej tabeli
 
+* 
+
 Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 
 * Nie jest intuicyjna
