@@ -19,5 +19,7 @@ Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozu
 
 Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 
-*W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu.
+* W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu.
+* Brak
+* nkll
 
