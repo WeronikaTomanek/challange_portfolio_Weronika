@@ -43,7 +43,7 @@ Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozu
 
 Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 
-* W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu.
+* W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu
 * Podczas dodawania gracza, dodałam adres mailowy bez znaku "@", otrzymałam komunikat że gracz nie został dodany jednak brak informacji dlaczego
 * Brak możliwości dodania raportu w module "Raporty" -> najpierw trzeba wejść w zawodnika, dodać mecz, a dopiero potem można dodać raport
 * Po dodaniu gracza strona powinna odsyłać np. do tabeli z graczami
