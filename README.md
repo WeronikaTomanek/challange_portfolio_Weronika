@@ -14,7 +14,8 @@ Na czym polega ta aplikacja? Do czego służy?
 
 Aplikacja służy do:
 * przeglądania i zapisywania wyników graczy w piłce nożnej,
-* sprawdzania i dodawania raportów.
+* sprawdzania i dodawania raportów,
+* jest bazą danych graczy.
   
 Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 
@@ -24,7 +25,11 @@ Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są in
 * możliwość dodania wielu informacji odnośnie graczy- to jest intuicyjne. Cały panel powinien być w języku Polskim.
 * możliwość dodania raportu z meczu- taka funkcja powinna być łatwo dostępna np. na stronie głównej
 * możliwość dodania meczu - taka funkcja powinna być łatwo dostępna np. na stronie głównej
-* możliwość rozpoczęcia meczu- dużo czasu mi zajeło zrozumienie tej funcji brak informacji, żeby kliknć na boisko aby dodać akcje zawodnika. 
+* możliwość rozpoczęcia meczu- dużo czasu mi zajeło zrozumienie tej funcji brak informacji, żeby kliknć na boisko aby dodać akcje zawodnika.
+* możliwość logowania - intuicyjne
+* możliwość resetu hasła - intuicyjne
+* możliwość zzamiany języka - intuicyjne
+
   
 Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 
