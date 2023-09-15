@@ -53,7 +53,7 @@ NIE:
 
 * W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu
 * Podczas dodawania gracza, dodałam adres mailowy bez znaku "@", otrzymałam komunikat że gracz nie został dodany jednak brak informacji dlaczego
-* Brak możliwości dodania raportu w module "Raporty" -> najpierw trzeba wejść w zawodnika, dodać mecz, a dopiero potem można dodać raport
+* Brak możliwości dodania raportu w module "Raporty" - najpierw trzeba wejść w zawodnika, dodać mecz, a dopiero potem można dodać raport
 * Po dodaniu gracza strona powinna odsyłać np. do tabeli z graczami
 * Po dodaniu gracza nic się dalej nie dzieje na stronie, nie ma żadnego przycisku powrót do strony głównej
 * Wchodząc na stronę główną znikają moduły "Gracze" oraz "Raporty" na pasku po lewej stronie
@@ -61,7 +61,8 @@ NIE:
 * Brak listy/tabeli wsystkich raportów z meczów- raporty są tylko odnośnie gracza
 * Brak takiej listy/tabeli wszystkich meczów- powinna być taka sama jak lista graczy
 * Wszystkie komunikaty, przyciski powinny być w języku polskim np. : submit, clear, save, Scouts Panel.
-* Błędy kosmetyczne module "edycja gracza" Waga-> można dodawać wartości ujemne, Wiek -> można dodawać osobę urodzoną wczoraj, Telefon-> można dodawać litery
+* Błędy kosmetyczne module "edycja gracza"tj.: 
+Waga-> można dodawać wartości ujemne, Wiek -> można dodawać osobę urodzoną wczoraj, dzisiaj oraz w przyszłości, Telefon-> można dodawać litery
 * W module "raporty" tylko za pomocą opcji edytuj raport mogę zobaczyć cały raport
 * W opcji "dodaj mecz" brak informacji, że należy kliknąć na boisko w celu dodania akcji.
   
