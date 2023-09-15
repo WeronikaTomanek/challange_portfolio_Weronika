@@ -15,7 +15,8 @@ Na czym polega ta aplikacja? Do czego służy?
 Aplikacja służy do:
 * przeglądania i zapisywania wyników graczy w piłce nożnej,
 * sprawdzania i dodawania raportów,
-* jest bazą danych graczy.
+* jest bazą danych graczy
+Głównym celem aplikacji jest zarabianie pieniędzy.
   
 Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 
