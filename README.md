@@ -66,5 +66,15 @@ Waga-> można dodawać wartości ujemne, Wiek -> można dodawać osobę urodzon�
 * W module "raporty" tylko za pomocą opcji edytuj raport mogę zobaczyć cały raport
 * W opcji "dodaj mecz" brak informacji, że należy kliknąć na boisko w celu dodania akcji.
   
-  
 
+# TASK 2
+## Subtask 3
+
+Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych, akcji (w stosownych przypadkach), oczekiwanych rezultatów i warunków końcowych opracowany w oparciu o warunki testowe. 
+
+Cele test case'a: 
+- wielokrotne uruchamianie tych samych testów na kolejnych wersjach oprogramowania przekłada się na skuteczne i spójne testowanie regresji
+- przejrzysta dokumentacja różnych możliwości obsłużenia modułów w tej samej aplikacji
+- minimalizacja ryzyka pominięcia ważnej funkcjonalności podczas testów
+- pomocna w prowadzeniu raportów z wykonanych testów
+- źródło informacji o aplikacji dla nowych członków zespołu
