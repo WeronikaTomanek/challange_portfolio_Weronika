@@ -86,3 +86,9 @@ Cele test case'a:
 - minimalizacja ryzyka pominięcia ważnej funkcjonalności podczas testów
 - pomocna w prowadzeniu raportów z wykonanych testów
 - źródło informacji o aplikacji dla nowych członków zespołu
+
+
+## Subtask 4
+
+  https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit?usp=sharing
+  
