@@ -68,6 +68,12 @@ Waga-> można dodawać wartości ujemne, Wiek -> można dodawać osobę urodzon�
   
 
 # TASK 2
+## Subtask 1
+https://docs.google.com/spreadsheets/d/1Zp1Z9biPIqosIIFhOafZM8sKMcBh0o2Bgm0FwHzZsxk/edit?usp=drive_link
+
+## Substask 2 
+https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit?usp=drive_link
+
 ## Subtask 3
 
 Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych, akcji (w stosownych przypadkach), oczekiwanych rezultatów i warunków końcowych opracowany w oparciu o warunki testowe. 
