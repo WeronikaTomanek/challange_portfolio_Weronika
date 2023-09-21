@@ -68,19 +68,19 @@ Waga-> można dodawać wartości ujemne, Wiek -> można dodawać osobę urodzon�
   
 
 # TASK 2
-## Subtask 1
-https://docs.google.com/spreadsheets/d/1Zp1Z9biPIqosIIFhOafZM8sKMcBh0o2Bgm0FwHzZsxk/edit?usp=drive_link
+## Subtask 1 ➡️ Pisanie przypadków testowych na podstawie User Story.
+📝 https://docs.google.com/spreadsheets/d/1Zp1Z9biPIqosIIFhOafZM8sKMcBh0o2Bgm0FwHzZsxk/edit?usp=drive_link
 
-## Substask 2 
-https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit?usp=drive_link
+## Substask 2 ➡️ Pisanie przypadków testowych na podstawie własnych doświadczeń.
+📝 https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit?usp=drive_link
 
-## Subtask 3
+## Subtask 3 ➡️ Po co piszemy test case’y? 
 
 Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych, akcji (w stosownych przypadkach), oczekiwanych rezultatów i warunków końcowych opracowany w oparciu o warunki testowe. 
 ![image](https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/5b0ec03b-46a3-426a-8065-a914cc91aa21)
 
 
-Cele test case'a: 
+🎯 Cele test case'a: 
 - wielokrotne uruchamianie tych samych testów na kolejnych wersjach oprogramowania przekłada się na skuteczne i spójne testowanie regresji
 - przejrzysta dokumentacja różnych możliwości obsłużenia modułów w tej samej aplikacji
 - minimalizacja ryzyka pominięcia ważnej funkcjonalności podczas testów
@@ -88,7 +88,17 @@ Cele test case'a:
 - źródło informacji o aplikacji dla nowych członków zespołu
 
 
-## Subtask 4
+## Subtask 4 ➡️ Pisanie przypadków testowych na podstawie “własnych doświadczeń aplikacja pickup
 
-  https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit?usp=sharing
+📝 https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit?usp=sharing
+
+# Task 3
+
+## Subtask 1 ➡️ Utworzenie formatki do zgłaszania błędów systemu
+
+## Subtask 2 ➡️ Testowanie według planów testów i raportowanie błędów
+
+## Subtask 3 ➡️ Raport z wykonanych testów
+
+## Subtask 4 ➡️ Dla grupy i chętnych. Sesja testów eksploracyjnych.
   
