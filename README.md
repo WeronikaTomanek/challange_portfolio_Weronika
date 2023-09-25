@@ -95,8 +95,11 @@ Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych
 # Task 3
 
 ## Subtask 1 ➡️ Utworzenie formatki do zgłaszania błędów systemu
+📝  https://docs.google.com/spreadsheets/d/1AnHNvEccyZCTRMBoRhao7wgi7Z_yCtTeX4H5zIW30QY/edit#gid=0
 
 ## Subtask 2 ➡️ Testowanie według planów testów i raportowanie błędów
+📝  https://docs.google.com/spreadsheets/d/1AnHNvEccyZCTRMBoRhao7wgi7Z_yCtTeX4H5zIW30QY/edit#gid=0
+
 
 ## Subtask 3 ➡️ Raport z wykonanych testów
 
