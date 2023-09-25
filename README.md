@@ -99,6 +99,7 @@ Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych
 
 ## Subtask 2 ➡️ Testowanie według planów testów i raportowanie błędów
 📝  https://docs.google.com/spreadsheets/d/10ALEwhpN4zQpzgcwVWldDd-N_220q063KdgfcjrnMm0/edit?usp=sharing
+📝  https://docs.google.com/spreadsheets/d/1J-nkVVECo8uvTsgKOB_R2ewS4VMu0LWiVm8DK2wnXS8/edit#gid=0
 
 
 ## Subtask 3 ➡️ Raport z wykonanych testów
