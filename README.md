@@ -102,6 +102,6 @@ Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych
 
 
 ## Subtask 3 ➡️ Raport z wykonanych testów
+📝  https://docs.google.com/spreadsheets/d/1CFPBfeDIGuUDotiiX03MKVehhM-S0EG5gjzf-5z-3DI/edit?usp=sharing
 
-## Subtask 4 ➡️ Dla grupy i chętnych. Sesja testów eksploracyjnych.
   
