@@ -95,13 +95,25 @@ Przypadki testowe (test case) - zbiór warunków wstępnych, danych wejściowych
 # Task 3
 
 ## Subtask 1 ➡️ Utworzenie formatki do zgłaszania błędów systemu
-📝  https://docs.google.com/spreadsheets/d/1AnHNvEccyZCTRMBoRhao7wgi7Z_yCtTeX4H5zIW30QY/edit#gid=0
+📝  https://docs.google.com/spreadsheets/d/10ALEwhpN4zQpzgcwVWldDd-N_220q063KdgfcjrnMm0/edit?usp=sharing
 
 ## Subtask 2 ➡️ Testowanie według planów testów i raportowanie błędów
-📝  https://docs.google.com/spreadsheets/d/1AnHNvEccyZCTRMBoRhao7wgi7Z_yCtTeX4H5zIW30QY/edit#gid=0
+📝  https://docs.google.com/spreadsheets/d/10ALEwhpN4zQpzgcwVWldDd-N_220q063KdgfcjrnMm0/edit?usp=sharing
 
 
 ## Subtask 3 ➡️ Raport z wykonanych testów
-📝  https://docs.google.com/spreadsheets/d/1CFPBfeDIGuUDotiiX03MKVehhM-S0EG5gjzf-5z-3DI/edit?usp=sharing
+📝  https://docs.google.com/spreadsheets/d/1CFPBfeDIGuUDotiiX03MKVehhM-S0EG5gjzf-5z-3DI/edit?usp=drive_link 
 
+## Subtas 4 ➡️  Dla grupy i chętnych. Sesja testów eksploracyjnych.
+📝 https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit#gid=0
+
+Testowanie eksploracyjne za pomocą "rajdów" jest kreatywną metodą testowania. Mozna wybrać 6 różnych rajdów:
+
+- Guidebook tour 
+- Intellectual Tour 
+- Obsessive-Compulsive Tour 
+- Landmark Tour 
+- Anti social tour
+- Money Tour
   
+Wcielanie się w konkretną rolę jest bardzo pomocne podczas wykonywania testów eksploracyjnych. Patrząc na aplikację 👀 z perspektywy konkretnej roli lub osoby sprawia że wyłapujemy różne błedy, na które normalnie nie zwrócilibyśmy uwagi. Polecam również wcielić się w rolę cioci/ babci 👵🏻! Chodzi o osobę, która nie jest biegła w komputerach ;) W taki spoób możemy przetestować dostępność naszej aplikacji.
