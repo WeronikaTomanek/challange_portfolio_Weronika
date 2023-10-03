@@ -118,3 +118,23 @@ Testowanie eksploracyjne za pomocą "rajdów" jest kreatywną metodą testowania
 - Money Tour
   
 Wcielanie się w konkretną rolę jest bardzo pomocne podczas wykonywania testów eksploracyjnych. Patrząc na aplikację 👀 z perspektywy konkretnej roli lub osoby sprawia że wyłapujemy różne błedy, na które normalnie nie zwrócilibyśmy uwagi. Polecam również wcielić się w rolę cioci/ babci 👵🏻! Chodzi o osobę, która nie jest biegła w komputerach ;) W taki spoób możemy przetestować dostępność naszej aplikacji.
+
+# Taks 4 Testowanie aplikacji mobilnych
+
+## Subtask 1, 2 - Utworzenie formatki do zgłaszania błędów systemu oraz testowanie eksploracyjne i raportowanie błędów
+
+📝 
+
+## Subtask 3 - Do czego służy ta aplikacja?
+
+Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Kto ma być użytkownikiem końcowym aplikacji?
+
+Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+
+Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+
+Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+## Subtask 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
