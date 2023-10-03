@@ -148,4 +148,14 @@ Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomys�
 
 Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
+> Aplikacja internetowa jest to oprogramowanie dostępne z poziomu przeglądarki
+> - nie trzeba pobierać oraz instalować na komputerze
+> - testowanie zwykle wymaga przeglądarki internetowej i narzędzi do testowania webowego
+>
+
+> Aplikacja natywna to jeden z typów aplikacji mobilnych. Budowane są z przeznaczeniem na tylko jeden mobilny system operacyjny.
+> - należy zainstalować na urządzeniu mobilnym
+> - mają pełen dostęp do funkcji urządzenia, co pozwala na bardziej zaawansowane i zintegrowane funkcje, takie jak dostęp do aparatu, powiadomienia push i lokalizacja.
+
+
 ## Subtask 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
