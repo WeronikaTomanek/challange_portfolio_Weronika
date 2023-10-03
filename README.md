@@ -119,9 +119,10 @@ Testowanie eksploracyjne za pomocą "rajdów" jest kreatywną metodą testowania
   
 Wcielanie się w konkretną rolę jest bardzo pomocne podczas wykonywania testów eksploracyjnych. Patrząc na aplikację 👀 z perspektywy konkretnej roli lub osoby sprawia że wyłapujemy różne błedy, na które normalnie nie zwrócilibyśmy uwagi. Polecam również wcielić się w rolę cioci/ babci 👵🏻! Chodzi o osobę, która nie jest biegła w komputerach ;) W taki spoób możemy przetestować dostępność naszej aplikacji.
 
-# Taks 4 Testowanie aplikacji mobilnych
+# Taks 4 Testowanie aplikacji mobilnych 
 
-## Subtask 1, 2 - Utworzenie formatki do zgłasza nia błędów systemu oraz testowanie eksploracyjne i raportowanie błędów
+## Subtask 1, 2 - Utworzenie formatki do zgłasza nia błędów systemu oraz testowanie eksploracyjne i raportowanie błędów 
+
 
 📝 https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662 
 
@@ -140,18 +141,22 @@ Kto ma być użytkownikiem końcowym aplikacji?
 > - przedsiębiocy
 > - usługodawcy
 
-Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. 
+Czy według Ciebie aplikacja jest user friendly?
 
 > Aplikacja OLX na urządzeniu iPhone 13 ( 17.0.2) jest user friendly, ponieważ  jest czytelna i posiada prosty interfejs użytkownika. 
 > Ponadto zawiera zaawansowane narzędzia do filtrownia i wyszukiwania, dzięki czemu łatwo znaleźć odpowiednie ogłoszenie. 
 > Aplikacja zawiera bardzo proste oraz intyicyjne przekirowanie do wsparcia technicznego, które jest przydatne w przypadku ewentualnego problemu. 
-> Dodanie ogłoszenia jest bardzo proste i bezprobemowe, ponieważ użytkownik jest kierowany krok po kroku jakie dane musi uzupełnić. 
+> Dodanie ogłoszenia jest bardzo proste i bezprobemowe, ponieważ użytkownik jest kierowany krok po kroku jakie dane musi uzupełnić.
+> Wszytskie przyciski są opisane co ułatwia rozumienie funkcji.
 
 
 
 Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
 
-> W celu usprawnienia procesu dodawnia ogłoszenia poinformowałabym użytkownika wcześniej o tym, że naleśży uzupełnić określoną liczbę znaków podczas dodawania tytłu oraz opisu. > Użytkownik dowiaduje się o tym na końcu procesu dodwania ogłoszenia. Można dodać komunikat który sprawdza ilość znaków i od razu zakreśla tekst na czerwono jeżeli jest niewystarczająca ilość. 
+> W celu usprawnienia procesu dodawnia ogłoszenia poinformowałabym użytkownika wcześniej o tym, że należy uzupełnić określoną liczbę znaków podczas dodawania tytłu oraz opisu.
+> Użytkownik dowiaduje się o tym na końcu procesu dodwania ogłoszenia. Można dodać komunikat który sprawdza ilość znaków i od razu zakreśla tekst na czerwono jeżeli jest niewystarczająca ilość.
+> Warto również dodać opcjię dostosowywania interfejsu przez użytkowników na stronie głównej. Taka funcja znajduje się tylko podczas wyszukiwania konkretnego produktu.
+> Komentowanie ogłoszeń byłoby przydatną funcjonalnością dla użytkowników. W ten sposób użytkownicy mieliby możliwość wymiany uwag odnośnie produktu lub usługi. 
 
 
 Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
@@ -159,12 +164,12 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 > Aplikacja internetowa jest to oprogramowanie dostępne z poziomu przeglądarki
 > - nie trzeba pobierać oraz instalować na komputerze
 > - testowanie zwykle wymaga przeglądarki internetowej i narzędzi do testowania webowego 
-> - 
+>
 
 > Aplikacja natywna to jeden z typów aplikacji mobilnych. Budowane są z przeznaczeniem na tylko jeden mobilny system operacyjny.
 > - wymagają pobrania i instalacji z odpowiednich sklepów z aplikacjami (np. App Store, Google Play). Aktualizacje muszą być pobierane i instalowane osobno przez użytkowników.
 > - mają pełen dostęp do funkcji urządzenia, co pozwala na bardziej zaawansowane i zintegrowane funkcje, takie jak dostęp do aparatu, powiadomienia push i lokalizacja.
-> - 
+> 
 
 
 ## Subtask 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
