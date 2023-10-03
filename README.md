@@ -121,17 +121,28 @@ Wcielanie się w konkretną rolę jest bardzo pomocne podczas wykonywania testó
 
 # Taks 4 Testowanie aplikacji mobilnych
 
-## Subtask 1, 2 - Utworzenie formatki do zgłaszania błędów systemu oraz testowanie eksploracyjne i raportowanie błędów
+## Subtask 1, 2 - Utworzenie formatki do zgłasza nia błędów systemu oraz testowanie eksploracyjne i raportowanie błędów
 
-📝 
+📝 https://docs.google.com/spreadsheets/d/1PdGnuj49Zj73YG2Q62FylDRe15OB2CCj0W9ickUMHO0/edit#gid=1481076662 
 
 ## Subtask 3 - Do czego służy ta aplikacja?
 
 Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
+> Aplikacja OLX jest serwisem ogłoszeniowy, który umożliwia zarówno osobom prywatnym, jak i firmom publikowanie ogłoszeń w celu sprzedaży lub znalezienia ofert. Umożliwia użytkownikom kupno, sprzedaż i wymianę różnych produktów i usług.
+> Aplikacja oferuje wiele funkcji, które ułatwiają publikowanie ogłoszeń, przeglądanie ofert i nawiązywanie kontaktu między kupującymi a sprzedającymi.
+
+
 Kto ma być użytkownikiem końcowym aplikacji?
 
-Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+> Użytkownikami końcowymi aplikacji OLX są osoby, które chcą sprzedawać, kupować lub znaleźć oferty produktów i usług.
+> - osoby prywatne
+> - przedsiębiocy
+> - usługodawcy
+
+Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. 
+
+
 
 Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
 
