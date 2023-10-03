@@ -142,7 +142,10 @@ Kto ma być użytkownikiem końcowym aplikacji?
 
 Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. 
 
-Aplikacja OLX na urządzeniu iPhone 13 ( 17.0.2) jest user friendly, ponieważ  jest czytelna i posiada prosty interfejs użytkownika. Ponadto zawiera zaawansowane narzędzia do filtrownia i wyszukiwania, dzięki czemu łatwo znaleźć odpowiednie ogłoszenie. Aplikacja zawiera  bardzo proste oraz intyicyjne przekirowanie do wsparcia technicznego, które jest przydatne w przypadku ewentualnego problemu. Dodanie ogłoszenia jest bardzo proste i bezprobemowe, ponieważ użytkownik jest kierowany krok po kroku jakie dane musi uzupełnić. 
+Aplikacja OLX na urządzeniu iPhone 13 ( 17.0.2) jest user friendly, ponieważ  jest czytelna i posiada prosty interfejs użytkownika. 
+Ponadto zawiera zaawansowane narzędzia do filtrownia i wyszukiwania, dzięki czemu łatwo znaleźć odpowiednie ogłoszenie. 
+Aplikacja zawiera bardzo proste oraz intyicyjne przekirowanie do wsparcia technicznego, które jest przydatne w przypadku ewentualnego problemu. 
+Dodanie ogłoszenia jest bardzo proste i bezprobemowe, ponieważ użytkownik jest kierowany krok po kroku jakie dane musi uzupełnić. 
 
 
 
