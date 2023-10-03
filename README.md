@@ -142,20 +142,26 @@ Kto ma być użytkownikiem końcowym aplikacji?
 
 Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. 
 
+Aplikacja OLX na urządzeniu iPhone 13 ( 17.0.2) jest user friendly, ponieważ  jest czytelna i posiada prosty interfejs użytkownika. Ponadto zawiera zaawansowane narzędzia do filtrownia i wyszukiwania, dzięki czemu łatwo znaleźć odpowiednie ogłoszenie. Aplikacja zawiera  bardzo proste oraz intyicyjne przekirowanie do wsparcia technicznego, które jest przydatne w przypadku ewentualnego problemu. Dodanie ogłoszenia jest bardzo proste i bezprobemowe, ponieważ użytkownik jest kierowany krok po kroku jakie dane musi uzupełnić. 
 
 
-Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+
+Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+
+W celu usprawnienia procesu dodawnia ogłoszenia poinformowałabym użytkownika wcześniej o tym, że naleśży uzupełnić określoną liczbę znaków podczas dodawania tytłu oraz opisu. Użytkownik dowiaduje się o tym na końcu procesu dodwania ogłoszenia. Można dodać komunikat który sprawdza ilość znaków i od razu zakreśla tekst na czerwono jeżeli jest niewystarczająca ilość. 
+
 
 Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
 > Aplikacja internetowa jest to oprogramowanie dostępne z poziomu przeglądarki
 > - nie trzeba pobierać oraz instalować na komputerze
-> - testowanie zwykle wymaga przeglądarki internetowej i narzędzi do testowania webowego
->
+> - testowanie zwykle wymaga przeglądarki internetowej i narzędzi do testowania webowego 
+> - 
 
 > Aplikacja natywna to jeden z typów aplikacji mobilnych. Budowane są z przeznaczeniem na tylko jeden mobilny system operacyjny.
-> - należy zainstalować na urządzeniu mobilnym
+> - wymagają pobrania i instalacji z odpowiednich sklepów z aplikacjami (np. App Store, Google Play). Aktualizacje muszą być pobierane i instalowane osobno przez użytkowników.
 > - mają pełen dostęp do funkcji urządzenia, co pozwala na bardziej zaawansowane i zintegrowane funkcje, takie jak dostęp do aparatu, powiadomienia push i lokalizacja.
+> - 
 
 
 ## Subtask 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
