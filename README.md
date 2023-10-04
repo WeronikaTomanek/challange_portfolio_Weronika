@@ -34,10 +34,10 @@ Natomiast głównym celem aplikacji jest zarabianie pieniędzy.
   
 **Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?**
 
-Interfejs aplikacji jest mało czytelny. Moim zdaniem nie jest user friendly. 
+Interfejs aplikacji jest mało czytelny. Moim zdaniem nie jest user friendly ze względu na: 
 * brak grafik,
 * brak wykresów,
-* duża ilość danych tabeli
+* dużą ilość danych tabeli
 * brak podstawowych fukncji tj. dodanie meczu, dodanie raportu na stronie głównej.
   
   
