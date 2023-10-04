@@ -8,7 +8,7 @@ Chcę znaleźć pracę i rozwijać się jako testerka oprogramowania 🧠 📖 �
 
 ***Werka***
 
-## Subtask 4
+## Subtask 4 - Testy eksploracyjne aplikacji internetowej https://scouts-test.futbolkolektyw.pl/pl 
 
 **Na czym polega ta aplikacja? Do czego służy?**
 
@@ -16,42 +16,45 @@ Aplikacja służy do:
 * przeglądania i zapisywania wyników graczy w piłce nożnej,
 * sprawdzania i dodawania raportów,
 * jest bazą danych graczy
-
-
-Głównym celem aplikacji jest zarabianie pieniędzy.
+Natomiast głównym celem aplikacji jest zarabianie pieniędzy.
   
-**Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)**
+**Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?**
 
-* możliwość dodania gracza - Na stronie głównej powinien być innaczej opisany przycisk zamiast "Linki pomocnicze", Dodałabym grafikę z plusem "+" 
-* możliwość sprawdzenia wyników wszystkich gracz - to jest intuicyjne
-* możliwość pobrania tych wyników - to jest intuicyjne ale plik pobiera się w formacie CSV, a większość osób nie ma wiedzy jak odtworzyć plik w tym formacie.
-* możliwość dodania wielu informacji odnośnie graczy- to jest intuicyjne. Cały panel powinien być w języku Polskim.
-* możliwość dodania raportu z meczu- taka funkcja powinna być łatwo dostępna np. na stronie głównej
-* możliwość dodania meczu - taka funkcja powinna być łatwo dostępna np. na stronie głównej
-* możliwość rozpoczęcia meczu- dużo czasu mi zajeło zrozumienie tej funcji brak informacji, żeby kliknć na boisko aby dodać akcje zawodnika.
-* możliwość logowania - intuicyjne
-* możliwość resetu hasła - intuicyjne
-* możliwość zzamiany języka - intuicyjne
+* możliwość dodania gracza ➡️ 💡 Na stronie głównej powinien być innaczej opisany przycisk zamiast "Linki pomocnicze", Dodałabym grafikę z plusem "+" 
+* możliwość sprawdzenia wyników wszystkich gracz ➡️ funckja jest intuicyjna
+* możliwość pobrania wyników wszystkich graczt ➡️ funckja jest intuicyjna 💡 Proponuję zminić format pobieranego pliku  na xml. Plik pobiera się w formacie CSV, który jest nieczytelny dla użytkownika 
+* możliwość dodania wielu informacji odnośnie graczy ➡️ funcja jest intuicyjna
+* możliwość dodania raportu z meczu ➡️💡 Funkcja powinna być łatwo dostępna dla użytkownika np. na stronie głównej
+* możliwość dodania meczu ➡️ 💡 Funkcja powinna być łatwo dostępna np. na stronie głównej
+* możliwość rozpoczęcia meczu ➡️ Funcja nie jest intuicyjna 💡 Warto dodać instrukcję obługi, kóra pokierowałaby krok po kroku jak poruszać się po tej funcjonalności.
+* możliwość logowania ➡️ funckja jest intuicyjna
+* możliwość resetu hasła ➡️ funckja jest intuicyjna
+* możliwość zzamiany języka ➡️ funckja jest intuicyjna
 
   
 **Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?**
 
-NIE:
+Interfejs aplikacji jest mało czytelny. Moim zdaniem nie jest user friendly. 
 * brak grafik,
 * brak wykresów,
 * duża ilość danych tabeli
 * brak podstawowych fukncji tj. dodanie meczu, dodanie raportu na stronie głównej.
   
   
-**Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).**
+**Czy aplikacja jest intuicyjna?**
 
-* Nie jest intuicyjna- szukałam jak mam zapisać edytowany raport, gdzie znajdę listę wszystkich raportów, dlaczego nie zapisało mi gracza, brak informacji jak posługiwać się opcją "rozpocznij mecz".
+* Aplikacja nie jest intuicyjna.
+* Przycisk SAVE, na stronie edytowania raportu nie jest dostępny i zaprojektowany zgodnie z dobrymi praktymi User Experience.
+* Brak informacji, instrukcji jak posługiwać się opcją "rozpocznij mecz".
+
+* Informacje odnośnie ilości graczy, meczów, raportów, akcji dają złudzenie interaktrywnych przycisków 
+* <img width="1182" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/4577cc8f-1b4a-403b-8efe-685f4cf23f8f">
 
 
 
 **Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)**
 
-* W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu
+* W okienku logowania system nie przepuszcza użytkownika, jeżeli wkradła się spacja na końcu wpisywania loginu.
 * Podczas dodawania gracza, dodałam adres mailowy bez znaku "@", otrzymałam komunikat że gracz nie został dodany jednak brak informacji dlaczego
 * Brak możliwości dodania raportu w module "Raporty" - najpierw trzeba wejść w zawodnika, dodać mecz, a dopiero potem można dodać raport
 * Po dodaniu gracza strona powinna odsyłać np. do tabeli z graczami
@@ -59,7 +62,7 @@ NIE:
 * Wchodząc na stronę główną znikają moduły "Gracze" oraz "Raporty" na pasku po lewej stronie
 * Exportując plik do CV- brak wszystkich danych z tabeli, wyexportowało tylko kilka pozycji
 * Brak listy/tabeli wsystkich raportów z meczów- raporty są tylko odnośnie gracza
-* Brak takiej listy/tabeli wszystkich meczów- powinna być taka sama jak lista graczy
+* Brak listy/tabeli wszystkich meczów- powinna być taka sama jak lista graczy
 * Wszystkie komunikaty, przyciski powinny być w języku polskim np. : submit, clear, save, Scouts Panel.
 * Błędy kosmetyczne module "edycja gracza"tj.: 
 Waga-> można dodawać wartości ujemne, Wiek -> można dodawać osobę urodzoną wczoraj, dzisiaj oraz w przyszłości, Telefon-> można dodawać litery
