@@ -48,7 +48,7 @@ Interfejs aplikacji jest mało czytelny. Moim zdaniem nie jest user friendly.
 * Brak informacji, instrukcji jak posługiwać się opcją "rozpocznij mecz".
 
 * Informacje odnośnie ilości graczy, meczów, raportów, akcji dają złudzenie interaktrywnych przycisków 
-* <img width="1182" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/4577cc8f-1b4a-403b-8efe-685f4cf23f8f">
+ <img width="1182" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/4577cc8f-1b4a-403b-8efe-685f4cf23f8f">
 
 
 
