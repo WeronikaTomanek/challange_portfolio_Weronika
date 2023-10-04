@@ -156,10 +156,12 @@ Czy według Ciebie aplikacja jest user friendly?
 
 Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
 
-> W celu usprawnienia procesu dodawnia ogłoszenia poinformowałabym użytkownika wcześniej o tym, że należy uzupełnić określoną liczbę znaków podczas dodawania tytłu oraz opisu.
+> 💡W celu usprawnienia procesu dodawnia ogłoszenia poinformowałabym użytkownika wcześniej o tym, że należy uzupełnić określoną liczbę znaków podczas dodawania tytłu oraz opisu.
 > Użytkownik dowiaduje się o tym na końcu procesu dodwania ogłoszenia. Można dodać komunikat który sprawdza ilość znaków i od razu zakreśla tekst na czerwono jeżeli jest niewystarczająca ilość.
-> Warto również dodać opcjię dostosowywania interfejsu przez użytkowników na stronie głównej. Taka funcja znajduje się tylko podczas wyszukiwania konkretnego produktu.
-> Komentowanie ogłoszeń byłoby przydatną funcjonalnością dla użytkowników. W ten sposób użytkownicy mieliby możliwość wymiany uwag odnośnie produktu lub usługi. 
+>
+> 💡 Warto również dodać opcjię dostosowywania interfejsu przez użytkowników na stronie głównej. Taka funcja znajduje się tylko podczas wyszukiwania konkretnego produktu.
+> 
+> 💡Komentowanie ogłoszeń byłoby przydatną funcjonalnością dla użytkowników. W ten sposób użytkownicy mieliby możliwość wymiany uwag odnośnie produktu lub usługi. 
 
 
 Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
@@ -169,7 +171,7 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 > - testowanie zwykle wymaga przeglądarki internetowej i narzędzi do testowania webowego 
 >
 
-> Aplikacja natywna to jeden z typów aplikacji mobilnych. Budowane są z przeznaczeniem na tylko jeden mobilny system operacyjny.
+> Aplikacja natywna to jeden z typów aplikacji mobilnych, które są budowane z przeznaczeniem na tylko 1️⃣ jeden mobilny system operacyjny.
 > - wymagają pobrania i instalacji z odpowiednich sklepów z aplikacjami (np. App Store, Google Play). Aktualizacje muszą być pobierane i instalowane osobno przez użytkowników.
 > - mają pełen dostęp do funkcji urządzenia, co pozwala na bardziej zaawansowane i zintegrowane funkcje, takie jak dostęp do aparatu, powiadomienia push i lokalizacja.
 > 
