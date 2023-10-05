@@ -180,4 +180,12 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 ## Subtask 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
 ![image](https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/8c3e7495-8f80-4dd3-97a3-3b71667e99f1)
 
+# Task 5 SQL part 1
+
+## Subtask 1 - Krótki kurs podstaw SQL
+
+## Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
+
+## Subtask 3 - Kilka zadań na rozgrzewkę
+
 
