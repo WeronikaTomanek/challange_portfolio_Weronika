@@ -16,7 +16,8 @@ Aplikacja służy do:
 * przeglądania i zapisywania wyników graczy w piłce nożnej,
 * sprawdzania i dodawania raportów,
 * jest bazą danych graczy
-Natomiast głównym celem aplikacji jest zarabianie pieniędzy.
+
+Głównym celem aplikacji jest zarabianie pieniędzy.
   
 **Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?**
 
