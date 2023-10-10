@@ -195,10 +195,12 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 
 
 2. Wyświetl film, który powstał w 2019 roku.
+
+   
 <img width="480" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/d41a5459-afab-4689-bcfc-ab545fa1c387">
 
 
-3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
 Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
