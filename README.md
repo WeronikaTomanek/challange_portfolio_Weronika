@@ -189,30 +189,42 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 
 ## Subtask 3 - Kilka zadań na rozgrzewkę
 
-1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. 
+
 <img width="580" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/2639a317-9f45-4b64-b1e7-bf8554f96e47">
 
-
-
 2. Wyświetl film, który powstał w 2019 roku.
-
-   
+ 
 <img width="480" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/d41a5459-afab-4689-bcfc-ab545fa1c387">
-
 
 4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
-Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+<img width="573" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/4e4b9dea-ec48-44da-a83a-56e5fbafb5af">
 
-Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+5. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
-Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+<img width="572" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/b5e4d51c-4edb-43b4-ac45-3ffecee3e906">
 
-Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+6. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
-Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+<img width="565" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/0e15b3ba-a8d4-4a03-ae6b-431ea507b268">
 
-Wyświetl dane klienta, który nie ma podanego adresu email.
+7. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
-Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+<img width="708" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/9e1917d4-8390-43cc-ad90-f20bc57aa089">
 
+8. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+<img width="576" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/dac873c9-aef1-4870-910e-7cd5e2dc98f9">
+
+9. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+<img width="596" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/d7e292e7-54e8-4f7e-8dee-dc52218f4305">
+
+10. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+<img width="533" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/0bd881c1-ad8c-4ade-8ee2-0903d3b5f0c8">
+
+11. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+<img width="613" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/cbfa302e-4052-4774-82fe-be98c0962bc9">
