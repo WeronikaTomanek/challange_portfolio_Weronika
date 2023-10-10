@@ -189,4 +189,28 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 
 ## Subtask 3 - Kilka zadań na rozgrzewkę
 
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+<img width="580" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/2639a317-9f45-4b64-b1e7-bf8554f96e47">
+
+
+
+2. Wyświetl film, który powstał w 2019 roku.
+<img width="480" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/d41a5459-afab-4689-bcfc-ab545fa1c387">
+
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+
+Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+Wyświetl dane klienta, który nie ma podanego adresu email.
+
+Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
