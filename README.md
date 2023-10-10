@@ -185,6 +185,11 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 
 ## Subtask 1 & 2 - Krótki kurs podstaw SQL & Konfiguracja środowska
 
+<img width="707" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/3c7bcf52-8e86-43df-bfda-bcfdad2e6819">
+<img width="707" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/ad3934b9-9ce6-45fd-9f00-09bd7b0c66b6">
+<img width="378" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/13bf5a2a-8e07-4190-8837-b817a845a6f7">
+
+
 
 ## Subtask 3 - Kilka zadań na rozgrzewkę
 
