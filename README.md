@@ -239,3 +239,10 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 <img width="613" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/cbfa302e-4052-4774-82fe-be98c0962bc9">
+
+
+# Task 6
+
+## Subtask 1 - Krótki kurs podstaw SQL
+1.11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+<img width="879" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/dc5132a1-8f77-4dd2-b12f-514c656fe4bf">
