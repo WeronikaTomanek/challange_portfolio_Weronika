@@ -248,4 +248,6 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 <img width="879" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/dc5132a1-8f77-4dd2-b12f-514c656fe4bf">
 12.  Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 <img width="939" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/047ebc3d-4e7f-4a10-9ffd-dc35a7554fdf">
-13. 
+13.  Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+<img width="779" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/70a3b82d-0d28-43dc-8bc5-3e3dc0dd5f70">
+
