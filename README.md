@@ -261,23 +261,26 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 
 <img width="942" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/bd2066f8-ea9d-49fd-98f8-1eb43808e5fe">
 
-15. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
 <img width="729" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/5573010c-f784-49a2-a5df-4e329ff3a748">
 
-16. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
 <img width="793" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/a0496eab-d030-4b8c-86d2-7661fa335220">
 
-17. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
 <img width="825" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/75f50499-2ec1-4dd6-aae5-3f17d337df23">
 
-18. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
 <img width="1100" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/0f03bf63-96e9-47ac-b1f2-a6a1f9fead4c">
 
-19. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
 <img width="731" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/77f7e4d1-a304-4e01-96f1-207dc58dbc2d">
 
