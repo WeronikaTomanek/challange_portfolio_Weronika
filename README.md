@@ -255,4 +255,7 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 <img width="779" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/70a3b82d-0d28-43dc-8bc5-3e3dc0dd5f70">
 
 <img width="942" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/bd2066f8-ea9d-49fd-98f8-1eb43808e5fe">
+15. 
+<img width="729" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/5573010c-f784-49a2-a5df-4e329ff3a748">
+
 
