@@ -246,27 +246,38 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 ## Subtask 1 - Krótki kurs podstaw SQL
 
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
 <img width="879" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/dc5132a1-8f77-4dd2-b12f-514c656fe4bf">
 
 12.  Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+
 <img width="939" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/047ebc3d-4e7f-4a10-9ffd-dc35a7554fdf">
 
 13.  Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 <img width="779" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/70a3b82d-0d28-43dc-8bc5-3e3dc0dd5f70">
-14.
+
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
 <img width="942" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/bd2066f8-ea9d-49fd-98f8-1eb43808e5fe">
 
-16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+15. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
 <img width="729" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/5573010c-f784-49a2-a5df-4e329ff3a748">
-17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION) 
+
+16. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
 <img width="793" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/a0496eab-d030-4b8c-86d2-7661fa335220">
-18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
+17. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
 <img width="825" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/75f50499-2ec1-4dd6-aae5-3f17d337df23">
 
-20. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+18. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
 <img width="1100" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/0f03bf63-96e9-47ac-b1f2-a6a1f9fead4c">
 
-21. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+19. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
 <img width="731" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/77f7e4d1-a304-4e01-96f1-207dc58dbc2d">
 
