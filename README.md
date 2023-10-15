@@ -264,3 +264,6 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 <img width="1100" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/0f03bf63-96e9-47ac-b1f2-a6a1f9fead4c">
 
 21. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+<img width="731" alt="image" src="https://github.com/WeronikaTomanek/challange_portfolio_Weronika/assets/143616151/77f7e4d1-a304-4e01-96f1-207dc58dbc2d">
+
